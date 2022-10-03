@@ -31,5 +31,11 @@ export const DICTIONARIES: Record<string, Dictionary> = {
     greet: '你好!',
     subtitle: '基于地理位置标题的本地化文本',
     link: '请参阅标题文档',
+  }, 
+  'pt-BR': {
+    title: 'i18n Examplo',
+    greet: 'Olá!',
+    subtitle: 'Texto localizado baseado na geolocalozação do cabeçalho',
+    link: 'Veja a documentação de cabeçalho',
   },
 }
